@@ -13,6 +13,14 @@
 					<key>url</key>
 					<string>http://appfreeze.altervista.org/PPjail12.ipa</string>
 				</dict>
+			<dict>
+                            <key>kind</key>
+                          <string>display-image</string>
+                           
+                   <key>url</key>
+                   <string>https://static.appdb.cc/images/cydia-1900000075-icon.png</string></string>
+               </dict>
+			
 			</array>
 			<key>metadata</key>
 			<dict>
@@ -21,7 +29,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Pangu Jailbreak by @Jakeashacks</string>
+				<string>Pangu Jailbreak by @jakeashacks</string>
 			</dict>
 		</dict>
 	</array>
