@@ -13,14 +13,7 @@
                    <key>url</key>
                    <string>https://enjoy.tweakboxapp.com/protection/from/you/gba4ios.ipa</string>
                </dict>
-               <dict>
-                   <key>kind</key>
-                   <string>display-image</string>
-                   <key>needs-shine</key>
-                   <true/>
-                   <key>url</key>
-                   <string>http://tweakboxapp.com/IlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlI/appicons/gba21.png</string></string>
-               </dict>
+               
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
