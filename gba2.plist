@@ -13,14 +13,7 @@
                    <key>url</key>
                    <string>https://enjoy.tweakboxapp.com/protection/from/you/gba4ios162.ipa</string>
                </dict>
-               <dict>
-                   <key>kind</key>
-                   <string>display-image</string>
-                   <key>needs-shine</key>
-                   <true/>
-                   <key>url</key>
-                   <string>http://tweakboxapp.com/IlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlI/appicons/gba4ios162.jpeg</string>
-               </dict>
+               
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
