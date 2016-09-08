@@ -19,18 +19,18 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://i.imgur.com/QjuIg7i.png</string>
+                   <string>http://tweakboxapp.com/IlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlIlIIlIlIlI/appicons/flappybird.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>enjoy.tweakbox.free</string>
+               <string>enjoy.appfreeze.flappy</string>
                <key>bundle-version</key>
                <string>0.33.1</string>
                <key>kind</key>
                <string>software</string>
                <key>title</key>
-               <string>Flappy Bird - TweakBox</string>
+               <string>Flappy Bird by @jakeashacks</string>
            </dict>
        </dict>
    </array>
