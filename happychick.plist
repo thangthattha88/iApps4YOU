@@ -13,7 +13,15 @@
 					<key>url</key>
 					<string>http://downloads.iemulators.com/1ceKC+</string>
 				</dict>
-			</array>
+			<dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>https://40.media.tumblr.com/759f8ed482bbcfdfb0f9648a72560d69/tumblr_o47edruGGi1qzhxrto1_1280.png</string>
+               </dict>
+</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
