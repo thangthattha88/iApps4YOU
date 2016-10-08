@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>https://rink.hockeyapp.net/api/2/apps/d453edfc9e974964a85a42189aaf31ef/app_versions/1?format=ipa&pltoken=3beef03c38c67d0d06e11e6c8e8d9389&avtoken=3cfc5b6cad11d2c078f95e8bb4b0c5a97e7a31da&iuid=466b7d3f1f107b64ee955164765c1a54</string>
+                   <string>https://rink.hockeyapp.net/api/2/apps/d453edfc9e974964a85a42189aaf31ef/app_versions/1?format=ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
